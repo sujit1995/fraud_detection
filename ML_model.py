@@ -6,3 +6,5 @@ def model1():
 
 def model2():
     print("ML model2") 
+
+print("Model2 is best")
